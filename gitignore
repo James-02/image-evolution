@@ -1,0 +1,7 @@
+.venv
+__pycache__
+/img
+.vscode
+*.zip
+*.pyc
+*.mp4

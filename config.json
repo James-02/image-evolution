@@ -1,0 +1,49 @@
+{
+    "0": {
+        "GENERATIONS": 4000,
+        "POPULATION": 25,
+        "IND_PROB": 0.5,
+        "MUTATION_PROB": 0.7,
+        "CROSS_PROB": 0.3,
+        "SEED": 53,
+        "POLYGONS": 3,
+        "TOURNAMENT_SIZE": 9
+    },
+
+    "1": {
+        "GENERATIONS": 4000,
+        "POPULATION": 25,
+        "IND_PROB": 0.5,
+        "MUTATION_PROB": 0.7,
+        "CROSS_PROB": 0.3,
+        "SEED": 53,
+        "POLYGONS": 3,
+        "TOURNAMENT_SIZE": 9
+    },
+
+    "2": {
+        "GENERATIONS": 4000,
+        "POPULATION": 25,
+        "IND_PROB": 0.5,
+        "MUTATION_PROB": 0.7,
+        "CROSS_PROB": 0.3,
+        "SEED": 53,
+        "POLYGONS": 3,
+        "TOURNAMENT_SIZE": 9
+    },
+
+    "3": {
+        "GENERATIONS": 4000,
+        "POPULATION": 25,
+        "IND_PROB": 0.5,
+        "MUTATION_PROB": 0.7,
+        "CROSS_PROB": 0.3,
+        "SEED": 53,
+        "POLYGONS": 3,
+        "TOURNAMENT_SIZE": 9
+    },
+
+    "Image": {
+        "TARGET_IMAGE": "media/target-image-1.png"
+    }
+}
