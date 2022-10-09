@@ -1,0 +1,4 @@
+pillow
+deap
+numpy
+matplotlib

@@ -1,6 +1,5 @@
-.venv
+venv
 __pycache__
-/img
 .vscode
 *.zip
 *.pyc
