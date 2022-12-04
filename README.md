@@ -17,10 +17,9 @@ python main.py 0
 ## Add a new image to test against
 - Add a 200x200px `.png` image to the `media` directory
 - Update config.json's "Image" parameter:
-```
+```json
 "Image": {
         "TARGET_IMAGE": "media/target-image-1.png"
-    }
 }
 ```
 
